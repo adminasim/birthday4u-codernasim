@@ -7,7 +7,8 @@
 body {
   position: relative;
   height: 100vh;
-  background-color: #300532;
+  background-image:image/background.jpg;
+  background-size: cover;
 }
 #slideContainer {
   width: 720px;

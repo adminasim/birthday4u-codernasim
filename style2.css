@@ -7,7 +7,7 @@
 body {
   position: relative;
   height: 100vh;
-  background-image:image/background.jpg;
+  background-image:./image/background.jpg;
   background-size: cover;
 }
 #slideContainer {
